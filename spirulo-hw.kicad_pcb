@@ -113,7 +113,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "output/gerber/")
+			(outputdirectory "output/gerber/revb")
 		)
 	)
 	(net 0 "")
@@ -3227,7 +3227,7 @@
 	(footprint "Footprints:Cabling"
 		(layer "B.Cu")
 		(uuid "06ee6ddd-359e-4359-b39e-43e63b61bd0e")
-		(at 149.84 122.68)
+		(at 149.87 121.36)
 		(property "Reference" "J102"
 			(at 0 -4 180)
 			(unlocked yes)
