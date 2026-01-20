@@ -489,7 +489,7 @@
       "plot": "output/gerber/revb",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "spirulo-202601201646.step",
       "svg": "",
       "vrml": ""
     },
