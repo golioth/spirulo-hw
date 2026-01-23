@@ -113,7 +113,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "output/gerber/revb")
+			(outputdirectory "output/gerber/")
 		)
 	)
 	(net 0 "")
@@ -3734,6 +3734,7 @@
 			)
 		)
 		(model "/Users/chrisg/golioth/pilulith-hw/output/mech/phial-b-boardonly_202601201541.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 7.5)
 			)

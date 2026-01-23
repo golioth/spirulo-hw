@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "output/gerber/revb",
+      "plot": "output/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "spirulo-202601201646.step",
